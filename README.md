@@ -1,8 +1,15 @@
-# Python devcontainer
+# testtt
 
-This is a template repository for a python project leveraging devcontainers.
+## How to run this project?
 
-> :warning:
-> Bear in mind that using this as a repository template will apply the inner cookiecutter template.
+### Install Docker Desktop
 
-Inspired by https://github.com/simonw/python-lib-template-repository/
+https://www.docker.com/products/docker-desktop/
+
+### Install VSCode
+
+https://code.visualstudio.com/
+
+### Open this folder in VSCode
+
+- When opening this folder, VSCode will ask if you want to install recommended extensions, say yes!
